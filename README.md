@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Matt Aussieker
-- 👀 I’m interested in QA testing, sports, video games, and music
+- 👀 I’m interested in QA testing, APIs, and Javascript
 - 🌱 I’m currently focused on improving my software dev skills. Check out my shopify-testing respository.
 - Email me: aussmatt@gmail.com
 - @psmatt13 on Twitter
